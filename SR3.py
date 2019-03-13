@@ -8,8 +8,8 @@ import struct
 import bmp_maker
 
 # image attributes
-width = 800
-height = 800
+width = 400
+height = 400
 x_to_paint = 1
 y_to_paint = 1
 bits_per_pixel = 32
